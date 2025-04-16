@@ -1,0 +1,10 @@
+{
+  "name": "beectionary",
+  "author": "Danny Han",
+  "private": true,
+  "version": "0.1.0",
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "vitest": "^3.1.1"
+  }
+}
