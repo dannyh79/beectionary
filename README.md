@@ -15,3 +15,7 @@ deno run start
 # run test suites
 deno run test:unit
 ```
+
+## Distributed Dictionary System Design
+
+See [here](/src/distributedDictionary/README.md).
