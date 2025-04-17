@@ -3,8 +3,5 @@
     "format": "prettier -w --log-level warn .",
     "test:unit": "vitest --passWithNoTests",
     "start": "deno --unstable-sloppy-imports src/main.ts"
-  },
-  "compilerOptions": {
-    "types": ["./src/types.d.ts"]
   }
 }
